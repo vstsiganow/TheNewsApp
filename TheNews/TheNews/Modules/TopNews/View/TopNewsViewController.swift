@@ -7,14 +7,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class TopNewsViewController: UICollectionViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
         view.backgroundColor = .blue
-        
+
     }
 
-}
 
+}
